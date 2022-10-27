@@ -1,6 +1,6 @@
 ---
 ref: k8s
-name: kubernetes
+name: k8s
 description: Kubernetes actions and sensors
 keywords:
   - kubernetes
