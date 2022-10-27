@@ -3,7 +3,7 @@ ref: k8s
 name: k8s
 description: Kubernetes actions and sensors
 keywords:
-  - kubernetes
+  - k8s
   - sensors
   - thirdpartyresource
 version: 0.0.1
