@@ -9,12 +9,15 @@ parameters:
         type: object
         description: "override stackstorm config"
         secret: true
+        position: 2
     body:
         type: object
         description: ""
         required: True
+        position: 0
         
     pretty:
         type: string
         description: "If 'true', then the output is pretty printed."
+        position: 1
         
