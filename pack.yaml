@@ -1,0 +1,13 @@
+---
+ref: k8s
+name: kubernetes
+description: Kubernetes actions and sensors
+keywords:
+  - kubernetes
+  - sensors
+  - thirdpartyresource
+version: 0.0.1
+python_versions:
+  - "3"
+author: Pablo de la Cuesta García
+email: pablo.delacuesta@outlook.com
